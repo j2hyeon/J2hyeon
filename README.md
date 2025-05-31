@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/EFK-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-AA66CC?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
